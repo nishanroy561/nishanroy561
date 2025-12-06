@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML projects and full-stack applications<br><br>👯 I’m looking to collaborate on AI-driven products, startups, and open-source<br><br>🤝 I’m looking for help with model deployment, MLOps, and scalable systems<br><br>🌱 I’m currently learning deep learning, LLMs, and cloud-based ML pipelines<br><br>💬 Ask me about machine learning, web dev, data, and system design<br><br>⚡ Fun fact: I automate problems before fully understanding them
+A builder at the intersection of AI/ML and full-stack engineering, Nishan focuses on turning raw ideas into real, scalable systems. His work spans intelligent applications, data-driven products, and modern web platforms, with a sharp interest in deep learning, LLMs, and production-grade deployment. He doesn’t just experiment with models, he ships them. When he’s not training networks or designing systems, he’s refining his portfolio and collaborating on ambitious tech projects.
 
 
 ## 🌐 Socials:
