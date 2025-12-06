@@ -1,5 +1,5 @@
 # 💫 About Me:
-A builder at the intersection of AI/ML and full-stack engineering, Nishan focuses on turning raw ideas into real, scalable systems. His work spans intelligent applications, data-driven products, and modern web platforms, with a sharp interest in deep learning, LLMs, and production-grade deployment. He doesn’t just experiment with models, he ships them. When he’s not training networks or designing systems, he’s refining his portfolio and collaborating on ambitious tech projects.
+I build at the intersection of AI/ML and full-stack development, turning raw ideas into real, scalable products. My work spans intelligent applications, data-driven systems, and modern web platforms, with a deep focus on deep learning, LLMs, and production-grade deployment. I care less about experiments that die in notebooks and more about models that survive in the real world. When I’m not building, I’m refining systems, scaling ideas, and collaborating on ambitious tech projects.
 
 
 ## 🌐 Socials:
