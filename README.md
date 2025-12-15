@@ -96,8 +96,8 @@ I build at the intersection of AI/ML and full-stack development, turning raw ide
 ![](https://nirzak-streak-stats.vercel.app/?user=nishanroy561&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanroy561&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nishanroy561&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nishanroy561&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
