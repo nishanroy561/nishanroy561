@@ -10,6 +10,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nishanroy561)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collegenroy@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nishanroy561&color=blueviolet&style=flat-square)
+
 </div>
 
 ---
@@ -77,12 +79,12 @@ When I'm not architecting systems or training models, I'm refining deployment pi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanroy561&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nishanroy561&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nishanroy561&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanroy561&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanroy561&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanroy561&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -92,7 +94,7 @@ When I'm not architecting systems or training models, I'm refining deployment pi
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=nishanroy561&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=nishanroy561&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
 
@@ -102,7 +104,7 @@ When I'm not architecting systems or training models, I'm refining deployment pi
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 </div>
 
@@ -129,8 +131,6 @@ I'm always interested in collaborating on ambitious projects, discussing AI/ML a
 [![Email](https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collegenroy@gmail.com)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=nishanroy561&label=Profile%20Views&color=0e75b6&icon=0&pretty=true)
 
 *"Code that ships > Code that sits"*
 
