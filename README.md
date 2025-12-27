@@ -78,7 +78,7 @@ When I'm not architecting systems or training models, I'm refining deployment pi
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanroy561&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanroy561&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nishanroy561&theme=tokyonight&hide_border=true)
 
@@ -130,7 +130,7 @@ I'm always interested in collaborating on ambitious projects, discussing AI/ML a
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=nishanroy561&icon=2&color=6)
+![Profile Views](https://visitcount.itsvg.in/api?id=nishanroy561&label=Profile%20Views&color=0e75b6&icon=0&pretty=true)
 
 *"Code that ships > Code that sits"*
 
