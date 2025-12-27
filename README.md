@@ -80,11 +80,7 @@ When I'm not architecting systems or training models, I'm refining deployment pi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishanroy561&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanroy561&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanroy561&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nishanroy561&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
