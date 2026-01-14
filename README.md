@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Nishan Roy
 
-### 🚀 AI/ML Engineer | Full-Stack Developer | System Architect
+### 🚀 Engineer | Full-Stack Developer | System Architect
 
 *Building intelligent applications that matter. From concept to production.*
 
