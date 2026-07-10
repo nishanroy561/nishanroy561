@@ -1,76 +1,73 @@
-<svg width="921" height="496" viewBox="0 0 921 496" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Cascadia Code','Fira Code',Consolas,monospace">
-  <style>
-    .art  { fill: #a371f7; }
-    .val  { fill: #c9d1d9; }
-    .key  { fill: #bd93f9; font-weight: 700; }
-    .head { fill: #a371f7; font-weight: 700; }
-    .rule { fill: #6e7681; }
-    .b    { fill: #58a6ff; }
-  </style>
-  <rect width="921" height="496" rx="8" fill="#0d1117"/>
-  <rect x="0.5" y="0.5" width="920" height="495" rx="8" fill="none" stroke="#21262d"/>
+<svg width="958" height="519" viewBox="0 0 958 519" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Cascadia Code','Fira Code',Consolas,monospace">
+  <rect width="958" height="519" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="957" height="518" rx="8" fill="none" stroke="#21262d"/>
 
-  <text class="art" x="20" y="24" font-size="7.2">
-    <tspan xml:space="preserve" x="20" dy="0.0">                                              .::.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                           ~YPGBBBPJ7~:.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                      .:!PG&amp;&amp;&amp;######&amp;#G57.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                   .^?5G#&amp;@@&amp;#B#&amp;&amp;@@@@@@&amp;5~~~^...</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                ~JPG#&amp;&amp;###&amp;@@&amp;&amp;@@@@@@@@@@@&amp;###BBGY?^</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                              ^5&amp;&amp;&amp;&amp;@@&amp;##&amp;@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;@&amp;&amp;#P^</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                             ~#@&amp;&amp;&amp;@@@&amp;#&amp;@@@@@@@@@@@@@@@@@@&amp;##&amp;G#GB#J</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                            :G&amp;&amp;@&amp;&amp;@@@&amp;&amp;@@@&amp;BGP5YYJJJY5PB&amp;@@##&amp;&amp;&amp;BG#Y</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                            J&amp;&amp;@@@@@&amp;&amp;@@&amp;GY?7!~~~~~~!!7??YG&amp;@&amp;@@@@@@#?.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                           .J#&amp;@@@@@@@#PJ7!~~~~^^^^~~!!7??J5#@@@@@&amp;&amp;#7.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                            J&amp;#&amp;@@@@&amp;P?7!!~~~~^^^^^~~~!!7??J5B&amp;@@@&amp;P~</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                            ~P&amp;&amp;@@&amp;B5?7!!~~~^^^^^^^^~~~!77?JY5#@@@B^</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                              J@@&amp;PYJ??777!!~^^^^^~!?JY5555YYYP&amp;@B^</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                               P@GJ5PPPPGBBP5?7!!7J5GBG5JJY5PPYG@J</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                               :BPYYYYJJY5PPP5?77?Y55YY5YYY55555&amp;7</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                75JJYP55BGJJ??7~~7J?7??PG5GPYYJYG~</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                               :JJ77?JJ?J?7!7?7!!7J?!~!!77??77?J55~</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                               :Y?7!!~~~~~!!??!!!7JJ7!~~~~~~!7?JY5!</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                               .7?7!!~^^~~!!77~^~!???!~~~~~!!7JYYJ~</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                :???7!~~~~~?Y5J??YPPY!~~~~!77?JYYJ.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                .?J?77!!~~~?555Y5PP5?!~~!!77?JYYY!</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                .7J??7777777??777????777777??JYY7^</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                 .?J?????JJY5YYYYY5555JJ?77?JJY7</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                  ^JJJ?JJYY5J?!!!!7JYYJJJ??JJYY:</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                   ~JYYYYJJJYYY5Y555YYYYJYYYYY^</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                    ^JYYJJJJJJJJJJJJJJJJJYY5?.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                     ^PP5J??7777777??JJY5PBP.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                     ^5PGGP55YJJJY5PPPB###BP!.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                                  .~JJYY5PG####BB##&amp;&amp;&amp;&amp;#GPPPPBPYJ?^</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                              .~?5B#5JYJJJY5PB##&amp;&amp;##BG5YY5555&amp;@@@@#GY7:</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                          .^75G#&amp;&amp;&amp;&amp;G??JJ?????JYYYYJ????JYYYB@&amp;&amp;&amp;@&amp;@@@#GPY7:</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">                  .^^!?YPGB&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;G?????7!!!7777!!77?J?5#@&amp;&amp;&amp;@@&amp;@&amp;&amp;@@@@@&amp;&amp;##BBGGP5J!^.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">            .~??5G#&amp;&amp;&amp;&amp;@@@@@@@@&amp;&amp;@&amp;&amp;&amp;@#PJ77!!!!!!!!!!777JG&amp;@&amp;&amp;@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@@@@@&amp;&amp;B?.</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">          :YB&amp;&amp;&amp;@&amp;&amp;&amp;&amp;&amp;@@@@@@@@@&amp;@@@&amp;@&amp;&amp;@&amp;G5J?!~~~~~~~!?P&amp;@@&amp;&amp;@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@@&amp;@@B?</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">       .7P#&amp;&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;BPJ77?5#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#7</tspan>
-    <tspan xml:space="preserve" x="20" dy="7.6">       :Y5555YY5555555555555555555555555555555555YY55555555555555555555555555555555555555Y:</tspan>
+  <text fill="#d7dae0" x="30" y="130.2" font-size="7.2">
+    <tspan xml:space="preserve" x="30" dy="0.0">                                       .::.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                                    ~YPGBBBPJ7~:.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                               .:!PG&amp;&amp;&amp;######&amp;#G57.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                            .^?5G#&amp;@@&amp;#B#&amp;&amp;@@@@@@&amp;5~~~^...</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                         ~JPG#&amp;&amp;###&amp;@@&amp;&amp;@@@@@@@@@@@&amp;###BBGY?^</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                       ^5&amp;&amp;&amp;&amp;@@&amp;##&amp;@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;@&amp;&amp;#P^</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                      ~#@&amp;&amp;&amp;@@@&amp;#&amp;@@@@@@@@@@@@@@@@@@&amp;##&amp;G#GB#J</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                     :G&amp;&amp;@&amp;&amp;@@@&amp;&amp;@@@&amp;BGP5YYJJJY5PB&amp;@@##&amp;&amp;&amp;BG#Y</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                     J&amp;&amp;@@@@@&amp;&amp;@@&amp;GY?7!~~~~~~!!7??YG&amp;@&amp;@@@@@@#?.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                    .J#&amp;@@@@@@@#PJ7!~~~~^^^^~~!!7??J5#@@@@@&amp;&amp;#7.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                     J&amp;#&amp;@@@@&amp;P?7!!~~~~^^^^^~~~!!7??J5B&amp;@@@&amp;P~</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                     ~P&amp;&amp;@@&amp;B5?7!!~~~^^^^^^^^~~~!77?JY5#@@@B^</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                       J@@&amp;PYJ??777!!~^^^^^~!?JY5555YYYP&amp;@B^</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                        P@GJ5PPPPGBBP5?7!!7J5GBG5JJY5PPYG@J</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                        :BPYYYYJJY5PPP5?77?Y55YY5YYY55555&amp;7</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                         75JJYP55BGJJ??7~~7J?7??PG5GPYYJYG~</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                        :JJ77?JJ?J?7!7?7!!7J?!~!!77??77?J55~</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                        :Y?7!!~~~~~!!??!!!7JJ7!~~~~~~!7?JY5!</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                        .7?7!!~^^~~!!77~^~!???!~~~~~!!7JYYJ~</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                         :???7!~~~~~?Y5J??YPPY!~~~~!77?JYYJ.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                         .?J?77!!~~~?555Y5PP5?!~~!!77?JYYY!</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                         .7J??7777777??777????777777??JYY7^</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                          .?J?????JJY5YYYYY5555JJ?77?JJY7</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                           ^JJJ?JJYY5J?!!!!7JYYJJJ??JJYY:</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                            ~JYYYYJJJYYY5Y555YYYYJYYYYY^</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                             ^JYYJJJJJJJJJJJJJJJJJYY5?.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                              ^PP5J??7777777??JJY5PBP.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                              ^5PGGP55YJJJY5PPPB###BP!.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                           .~JJYY5PG####BB##&amp;&amp;&amp;&amp;#GPPPPBPYJ?^</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                       .~?5B#5JYJJJY5PB##&amp;&amp;##BG5YY5555&amp;@@@@#GY7:</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">                   .^75G#&amp;&amp;&amp;&amp;G??JJ?????JYYYYJ????JYYYB@&amp;&amp;&amp;@&amp;@@@#GPY7:</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">           .^^!?YPGB&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;G?????7!!!7777!!77?J?5#@&amp;&amp;&amp;@@&amp;@&amp;&amp;@@@@@&amp;&amp;##BBGGP5J!^.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">     .~??5G#&amp;&amp;&amp;&amp;@@@@@@@@&amp;&amp;@&amp;&amp;&amp;@#PJ77!!!!!!!!!!777JG&amp;@&amp;&amp;@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@@@@@&amp;&amp;B?.</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">   :YB&amp;&amp;&amp;@&amp;&amp;&amp;&amp;&amp;@@@@@@@@@&amp;@@@&amp;@&amp;&amp;@&amp;G5J?!~~~~~~~!?P&amp;@@&amp;&amp;@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@@&amp;@@B?</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">.7P#&amp;&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;BPJ77?5#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#7</tspan>
+    <tspan xml:space="preserve" x="30" dy="7.6">:Y5555YY5555555555555555555555555555555555YY55555555555555555555555555555555555555Y:</tspan>
   </text>
 
-  <text x="451.44000000000005" y="40" font-size="14">
-    <tspan x="451.44000000000005" dy="0.0"><tspan class="head">nishan@roy</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="rule">------------------------------------------</tspan></tspan>
-    <tspan x="451.44000000000005" dy="9.5"> </tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">OS: </tspan><tspan class="val">Windows 11, Android, Linux</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Host: </tspan><tspan class="val">Deep Duo Foundation</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Kernel: </tspan><tspan class="val">Backend, Distributed Systems, Full-Stack</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Uptime: </tspan><tspan class="val">Narula Institute of Technology &#x27;27</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">IDE: </tspan><tspan class="val">VS Code, Claude Code</tspan></tspan>
-    <tspan x="451.44000000000005" dy="9.5"> </tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Languages.Programming: </tspan><tspan class="val">Python, TS, JS, Dart, C++</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Languages.Real: </tspan><tspan class="val">English, Hindi, Bengali</tspan></tspan>
-    <tspan x="451.44000000000005" dy="9.5"> </tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Backend: </tspan><tspan class="val">Node.js, Express, FastAPI, Django</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Frontend: </tspan><tspan class="val">React, Next.js, Tailwind, Flutter</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Databases: </tspan><tspan class="val">PostgreSQL, MongoDB, Redis</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">AI/ML: </tspan><tspan class="val">TensorFlow, LangChain, LangGraph, OpenCV</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">DevOps: </tspan><tspan class="val">Docker, AWS, Git, n8n</tspan></tspan>
-    <tspan x="451.44000000000005" dy="9.5"> </tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="head">Contact</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Email: </tspan><tspan class="b">nishanroy561@gmail.com</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">LinkedIn: </tspan><tspan class="b">in/nishanroy</tspan></tspan>
-    <tspan x="451.44000000000005" dy="19.0"><tspan class="key">Website: </tspan><tspan class="b">nishanroy.me</tspan></tspan>
+  <text x="441.20000000000005" y="44.0" font-size="14" xml:space="preserve">
+    <tspan x="441.20000000000005" dy="0.0"><tspan fill="#98c379" font-weight="700">nishan</tspan><tspan fill="#abb2bf">@</tspan><tspan fill="#98c379" font-weight="700">roy</tspan><tspan fill="#56b6c2"> ----------------------------------------------</tspan></tspan>
+    <tspan x="441.20000000000005" dy="10"> </tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">OS:</tspan><tspan fill="#3e4451"> ........................... </tspan><tspan fill="#98c379">Windows 11, Android, Linux</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Host:</tspan><tspan fill="#3e4451"> ................................ </tspan><tspan fill="#98c379">Deep Duo Foundation</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Kernel:</tspan><tspan fill="#3e4451"> ......... </tspan><tspan fill="#98c379">Backend, Distributed Systems, Full-Stack</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Uptime:</tspan><tspan fill="#3e4451"> ............... </tspan><tspan fill="#98c379">Narula Institute of Technology &#x27;27</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">IDE:</tspan><tspan fill="#3e4451"> ................................ </tspan><tspan fill="#98c379">VS Code, Claude Code</tspan></tspan>
+    <tspan x="441.20000000000005" dy="10"> </tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Languages.Programming:</tspan><tspan fill="#3e4451"> ......... </tspan><tspan fill="#e5c07b">Python, TS, JS, Dart, C++</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Languages.Real:</tspan><tspan fill="#3e4451"> .................. </tspan><tspan fill="#e5c07b">English, Hindi, Bengali</tspan></tspan>
+    <tspan x="441.20000000000005" dy="10"> </tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Backend:</tspan><tspan fill="#3e4451"> ............... </tspan><tspan fill="#56b6c2">Node.js, Express, FastAPI, Django</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Frontend:</tspan><tspan fill="#3e4451"> .............. </tspan><tspan fill="#56b6c2">React, Next.js, Tailwind, Flutter</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Databases:</tspan><tspan fill="#3e4451"> .................... </tspan><tspan fill="#56b6c2">PostgreSQL, MongoDB, Redis</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">AI/ML:</tspan><tspan fill="#3e4451"> .......... </tspan><tspan fill="#56b6c2">TensorFlow, LangChain, LangGraph, OpenCV</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">DevOps:</tspan><tspan fill="#3e4451"> ............................ </tspan><tspan fill="#56b6c2">Docker, AWS, Git, n8n</tspan></tspan>
+    <tspan x="441.20000000000005" dy="10"> </tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e5c07b" font-weight="700">- Contact </tspan><tspan fill="#56b6c2">------------------------------------------------</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Email:</tspan><tspan fill="#3e4451"> ............................ </tspan><tspan fill="#61afef">nishanroy561@gmail.com</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">LinkedIn:</tspan><tspan fill="#3e4451"> ................................... </tspan><tspan fill="#61afef">in/nishanroy</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Website:</tspan><tspan fill="#3e4451"> .................................... </tspan><tspan fill="#61afef">nishanroy.me</tspan></tspan>
+    <tspan x="441.20000000000005" dy="10"> </tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e5c07b" font-weight="700">- GitHub Stats </tspan><tspan fill="#56b6c2">-------------------------------------------</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Repos:</tspan><tspan fill="#3e4451"> ................................................ </tspan><tspan fill="#98c379">15</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Commits:</tspan><tspan fill="#3e4451"> ............................................ </tspan><tspan fill="#98c379">600+</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Stars:</tspan><tspan fill="#3e4451"> ................................................ </tspan><tspan fill="#98c379">10</tspan></tspan>
+    <tspan x="441.20000000000005" dy="19.5"><tspan fill="#e06c75" font-weight="700">Followers:</tspan><tspan fill="#3e4451"> ............................................ </tspan><tspan fill="#98c379">40</tspan></tspan>
   </text>
 </svg>
