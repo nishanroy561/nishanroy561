@@ -188,21 +188,13 @@ indent = min(len(l) - len(l.lstrip(" ")) for l in art_lines if l.strip())
 art_lines = [l[indent:] for l in art_lines]
 art_cols = max(len(l) for l in art_lines)
 
-ART_FS, ART_LH = 7.2, 7.6
 INFO_FS, INFO_LH, GAP_LH = 14, 19.5, 10
 PAD, MID_GAP = 30, 44
+ART_SX = 0.82   # horizontal squeeze so the portrait isn't stretched wide
 
-art_ch = ART_FS * 0.6
 info_ch = INFO_FS * 0.6
 
-art_x = PAD
-art_w = art_cols * art_ch
-info_x = art_x + art_w + MID_GAP
-info_w = TOTAL * info_ch
-svg_w = int(info_x + info_w + PAD)
-
-art_h = len(art_lines) * ART_LH
-# info height
+# --- info block height drives the whole card height ---
 info_h = 0.0
 first = True
 for r in rows:
@@ -211,18 +203,31 @@ for r in rows:
     else:
         info_h += 0 if first else INFO_LH
         first = False
-content_h = max(art_h, info_h)
+
+content_h = info_h
 svg_h = int(content_h + 2 * PAD)
 
-art_y0 = PAD + (content_h - art_h) / 2 + ART_FS
-info_y0 = PAD + (content_h - info_h) / 2 + INFO_FS
+# --- size the ASCII art to FILL the full card height (top to bottom) ---
+nrows = len(art_lines)
+ART_LH = content_h / nrows          # rows span the entire content height
+ART_FS = ART_LH * 0.98              # glyphs nearly touch row-to-row (no gaps)
+art_adv = ART_FS * 0.6
+art_w = art_cols * art_adv * ART_SX  # on-screen width after horizontal squeeze
+
+art_x = PAD
+info_x = art_x + art_w + MID_GAP
+info_w = TOTAL * info_ch
+svg_w = int(info_x + info_w + PAD)
+
+info_y0 = PAD + INFO_FS
 
 # ---------------------------------------------------------------- art tspans
+# rendered inside a <g translate/scale>, so x is 0 and coords are pre-squeeze
 art_tspans = []
 for i, ln in enumerate(art_lines):
     dy = 0 if i == 0 else ART_LH
     art_tspans.append(
-        f'    <tspan xml:space="preserve" x="{art_x}" dy="{dy:.1f}">{html.escape(ln)}</tspan>')
+        f'    <tspan xml:space="preserve" x="0" dy="{dy:.2f}">{html.escape(ln)}</tspan>')
 art_block = "\n".join(art_tspans)
 
 # ---------------------------------------------------------------- info tspans
@@ -271,9 +276,11 @@ svg = f'''<svg width="{svg_w}" height="{svg_h}" viewBox="0 0 {svg_w} {svg_h}" xm
   <rect width="{svg_w}" height="{svg_h}" rx="8" fill="#0d1117"/>
   <rect x="0.5" y="0.5" width="{svg_w-1}" height="{svg_h-1}" rx="8" fill="none" stroke="#21262d"/>
 
-  <text fill="{C['art']}" x="{art_x}" y="{art_y0:.1f}" font-size="{ART_FS}">
+  <g transform="translate({art_x}, {PAD}) scale({ART_SX}, 1)">
+    <text fill="{C['art']}" x="0" y="{ART_FS:.2f}" font-size="{ART_FS:.2f}">
 {art_block}
-  </text>
+    </text>
+  </g>
 
   <text x="{info_x}" y="{info_y0:.1f}" font-size="{INFO_FS}" xml:space="preserve">
 {info_block}
