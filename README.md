@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Notizz AI](https://github.com/nishanroy561)** — AI news-analysis platform. Dual backend (Express + FastAPI), fine-tuned DistilBERT for sentiment/bias, TextRank summarization, MinHash+LSH near-duplicate detection, HNSW semantic fact-checking. Companion Flutter app.
+- **[Notizz AI](https://notizzai.ddfrl.com)** — AI news-analysis platform. Dual backend (Express + FastAPI), fine-tuned DistilBERT for sentiment/bias, TextRank summarization, MinHash+LSH near-duplicate detection, HNSW semantic fact-checking. Companion Flutter app.
 - **[ShipIntern](https://github.com/nishanroy561)** — AI internship-discovery platform serving 250+ users. LLM query-understanding → structured search, BM25 ranking, Jaro–Winkler cross-source dedup. Next.js + TypeScript.
 
 ---
