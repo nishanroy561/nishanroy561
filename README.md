@@ -8,7 +8,7 @@
   <img src="./neofetch.svg" alt="Nishan Roy — neofetch" width="880" />
 </p>
 
-<h3 align="center">Software Engineer &nbsp;|&nbsp; AI Engineer &nbsp;|&nbsp; Backend, Distributed Systems &amp; Full-Stack</h3>
+<h3 align="center">Just an Engineer</h3>
 
 <p align="center">
   <a href="https://nishanroy.me"><img src="https://img.shields.io/badge/Portfolio-nishanroy.me-a371f7?style=flat-square&logo=firefox&logoColor=white" /></a>
